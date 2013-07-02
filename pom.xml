@@ -8,7 +8,6 @@
     <packaging>war</packaging>
     <version>0.0.1</version>
 
-    <name>Getting Started with Spring on JBoss</name>
 
     <properties>
                 <!-- Spring version -->
@@ -271,4 +270,5 @@
             </build>
         </profile>
     </profiles>
+    <name>Sports Application Test</name>
 </project>
